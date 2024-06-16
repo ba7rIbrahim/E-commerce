@@ -3,12 +3,12 @@ import Image from "next/image";
 
 export const metadata = {
   title: "HEXASHOP | CONTACT US",
-}
+};
 
 export default function Contact() {
   return (
     <div
-      // style={{ height: "calc(100vh - 205px)" }}
+      style={{ height: "calc(100vh - 205px)" }}
       className=" lg:border-4 rounded-xl my-9 p-5"
     >
       <h1 className="bg-clip-text text-transparent bg-gradient-to-r from-main to-main/25 font-bold text-4xl mt-4">

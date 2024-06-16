@@ -4,7 +4,7 @@ import React from "react";
 export default function HomePage() {
   return (
     <div
-      // style={{ height: "calc(100vh - 181px)" }}
+      style={{ height: "calc(100vh - 181px)" }}
       className="mt-12 text-center flex  justify-center lg:justify-between items-center gap-5 pb-12 min-h-max "
     >
       <div className="lg:w-[40%] lg:text-left">
